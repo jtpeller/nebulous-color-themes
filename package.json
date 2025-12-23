@@ -1,0 +1,60 @@
+{
+    "name": "nebulous-color-themes",
+    "displayName": "Nebulous Color Themes",
+    "version": "0.0.1",
+    "publisher": "jtpeller",
+    "description": "Inspired by the cosmos, a collection of VS Code color themes to customize your coding experience.",
+    "author": {
+        "name": "jtpeller"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#0a0a0a",
+        "theme": "dark"
+    },
+    "pricing": "Free",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jtpeller/nebulous-color-themes.git"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nebulous - Deep Space (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nebulous-dark.json"
+            },
+            {
+                "label": "Nebulous - Void (Very Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nebulous-void.json"
+            },
+            {
+                "label": "Nebulous - Ring Nebula (Orange)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nebulous-orange.json"
+            },
+            {
+                "label": "Nebulous - Orion Nebula (Blue)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nebulous-blue.json"
+            },
+            {
+                "label": "Nebulous - Sol (White)",
+                "uiTheme": "vs",
+                "path": "./themes/nebulous-white.json"
+            },
+            {
+                "label": "Nebulous - Luna (Silver)",
+                "uiTheme": "vs",
+                "path": "./themes/nebulous-silver.json"
+            }
+        ]
+    }
+}
