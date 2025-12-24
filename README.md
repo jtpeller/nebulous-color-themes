@@ -1,5 +1,7 @@
 # Nebulous Color Themes
 
+[Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=jtpeller.nebulous-color-themes)
+
 Inspired by the cosmos, this pack of color themes contains several different themes (both light and dark) to customize your VSCode window, code syntax, etc.
 
 I created and use these personally because I found that I wanted different colors for various syntax to make my coding experience easier.
