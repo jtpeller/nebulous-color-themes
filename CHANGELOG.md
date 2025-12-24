@@ -1,9 +1,22 @@
 # Change Log
 
-All notable changes to the "jtpeller-s-color-themes" extension will be documented in this file.
+This doc details the changes to the Nebulous Color Themes.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+Mostly based on [Keep a Changelog](http://keepachangelog.com/) for structure and concepts.
 
-## [Unreleased]
+## [0.0.2] - 2025-12-24
 
-- Initial release
+### Changed
+
+- Modified the Void, Orion, and Ring themes for consistency across themes and a better look.
+- Darkened the line number background color to match the tab and breadcrumbs background colors.
+- Changed the "remote" button to match the relevant accent color.
+- Darkened the inactive tab background color, and lightened the font color (foreground) for on-hover events for the inactive tabs.
+
+## [0.0.1] - 2025-12-23
+
+- Initial release.
+
+### Added
+
+- Six themes; 2 light mode themes and 4 dark mode themes.
