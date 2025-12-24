@@ -1,7 +1,7 @@
 {
     "name": "nebulous-color-themes",
     "displayName": "Nebulous Color Themes",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "jtpeller",
     "description": "Inspired by the cosmos, a collection of VS Code color themes to customize your coding experience.",
     "author": {
@@ -10,7 +10,7 @@
     "categories": [
         "Themes"
     ],
-    "icon": "images/icon.png",
+    "icon": "images/icon.webp",
     "galleryBanner": {
         "color": "#0a0a0a",
         "theme": "dark"

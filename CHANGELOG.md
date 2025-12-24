@@ -4,6 +4,17 @@ This doc details the changes to the Nebulous Color Themes.
 
 Mostly based on [Keep a Changelog](http://keepachangelog.com/) for structure and concepts.
 
+## [0.0.3] - 2025-12-24
+
+### Added
+
+- This changelog
+
+### Changed
+
+- Updated README format for easier reading.
+- Compressed images slightly to reduce extension size.
+
 ## [0.0.2] - 2025-12-24
 
 ### Changed
