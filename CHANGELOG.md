@@ -4,6 +4,14 @@ This doc details the changes to the Nebulous Color Themes.
 
 Mostly based on [Keep a Changelog](http://keepachangelog.com/) for structure and concepts.
 
+## [0.0.4] - 2026-01-XX
+
+### Changed
+
+- Reorganized all of the JSONs for easier maintainability.
+- Adjusted Semantic Highlighting for just about every single field.
+- Adjusted text styling for just about every single field.
+
 ## [0.0.3] - 2025-12-24
 
 ### Added

@@ -2,3 +2,5 @@ node_modules
 *.vsix
 .env
 vsc-extension-quickstart.md
+.samples/
+.vscode/

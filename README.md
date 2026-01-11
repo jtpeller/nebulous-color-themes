@@ -1,14 +1,10 @@
 # Nebulous Color Themes
 
-<a href="https://marketplace.visualstudio.com/items?itemName=jtpeller.nebulous-color-themes" style="display: block; margin-left: auto; margin-right: auto; width: 100px;">
-    <img src="images/icon.webp" alt="Visual Studio Marketplace Link"/>
-</a>
-
 Inspired by the cosmos, this pack of color themes contains several different themes (both light and dark) to customize your VSCode window, code syntax, etc.
 
 I created and use these personally because I found that I wanted different colors for various syntax to make my coding experience easier.
 
-Can be found at the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=jtpeller.nebulous-color-themes).
+> Can be found at the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=jtpeller.nebulous-color-themes).
 
 ## Contents
 
