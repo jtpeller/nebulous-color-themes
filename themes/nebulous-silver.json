@@ -115,7 +115,7 @@
             }
         },
         {
-            "name": "GENERALL: CONSTANTS: Other Symbol",
+            "name": "GENERAL: CONSTANTS: Other Symbol",
             "scope": "constant.other.symbol",
             "settings": {
                 "foreground": "#000000"
