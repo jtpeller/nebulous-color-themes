@@ -565,7 +565,7 @@
                 "keyword.operator.bitwise.shift.cpp"
             ],
             "settings": {
-                "foreground": "#b891e6"
+                "foreground": "#ffffff"
             }
         },
         {
@@ -575,7 +575,7 @@
                 "punctuation.separator.cpp"
             ],
             "settings": {
-                "foreground": "#b891e6"
+                "foreground": "#ffffff"
             }
         },
         {
