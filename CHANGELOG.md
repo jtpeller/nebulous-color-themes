@@ -4,17 +4,27 @@ This doc details the changes to the Nebulous Color Themes.
 
 Mostly based on [Keep a Changelog](http://keepachangelog.com/) for structure and concepts.
 
-## [0.0.4] - 2026-01-XX
+## [0.0.5] - 2026.03.26
 
-### Changed
+### Added in [0.0.5]
+
+- Added 2 new themes: Void Purple and Void Green!
+
+### Changed in [0.0.5]
+
+- Fixed some inconsistencies in the various themes.
+
+## [0.0.4] - 2026.01.XX
+
+### Changed in [0.0.4]
 
 - Reorganized all of the JSONs for easier maintainability.
 - Adjusted Semantic Highlighting for just about every single field.
 - Adjusted text styling for just about every single field.
 
-## [0.0.3] - 2025-12-24
+## [0.0.3] - 2025.12.24
 
-### Added
+### Added in [0.0.3]
 
 - This changelog
 
@@ -23,19 +33,19 @@ Mostly based on [Keep a Changelog](http://keepachangelog.com/) for structure and
 - Updated README format for easier reading.
 - Compressed images slightly to reduce extension size.
 
-## [0.0.2] - 2025-12-24
+## [0.0.2] - 2025.12.24
 
-### Changed
+### Changed in [0.0.2]
 
 - Modified the Void, Orion, and Ring themes for consistency across themes and a better look.
 - Darkened the line number background color to match the tab and breadcrumbs background colors.
 - Changed the "remote" button to match the relevant accent color.
 - Darkened the inactive tab background color, and lightened the font color (foreground) for on-hover events for the inactive tabs.
 
-## [0.0.1] - 2025-12-23
+## [0.0.1] - 2025.12.23
 
 - Initial release.
 
-### Added
+### Added in [0.0.1]
 
 - Six themes; 2 light mode themes and 4 dark mode themes.

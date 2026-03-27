@@ -14,8 +14,11 @@ I created and use these personally because I found that I wanted different color
     - [Dark Themes](#dark-themes)
       - ["Deep Space" (Dark)](#deep-space-dark)
       - ["Void" (Very Dark)](#void-very-dark)
+      - ["Engraved Hourglass" Nebula (Red)](#engraved-hourglass-nebula-red)
       - ["Ring Nebula" (Orange)](#ring-nebula-orange)
+      - ["Dumbbell Nebula" (Green)](#dumbbell-nebula-green)
       - ["Orion Nebula" (Blue)](#orion-nebula-blue)
+      - ["Veil Nebula" (Purple)](#veil-nebula-purple)
     - [Light Themes](#light-themes)
       - ["Sol" (White)](#sol-white)
       - ["Luna" (Silver)](#luna-silver)
@@ -38,17 +41,35 @@ The **Void** theme is an even darker version of the "Dark" theme. It changes the
 
 <img src="images/nebulous-void.webp" alt="Void Theme Sample Image" style="display: block; margin-left: auto; margin-right: auto; width: 85%;"/>
 
+#### "Engraved Hourglass" Nebula (Red)
+
+The **Engraved Hourglass** theme is based upon the "Void" theme, except those greyscale accents are red. This is based upon my new favorite nebula, the Engraved Hourglass Nebula. The center looks like an eyeball, and it's fascinating.
+
+<img src="images/nebulous-void-red.webp" alt="Engraved Hourglass Nebula Theme Sample Image" style="display: block; margin-left: auto; margin-right: auto; width: 85%;"/>
+
 #### "Ring Nebula" (Orange)
 
 The **Ring Nebula** theme is based upon the "Void" theme, except those greyscale accents are orange! This is reminiscent of the Ring Nebula.
 
-<img src="images/nebulous-orange.webp" alt="Ring Nebula Theme Sample Image" style="display: block; margin-left: auto; margin-right: auto; width: 85%;"/>
+<img src="images/nebulous-void-orange.webp" alt="Ring Nebula Theme Sample Image" style="display: block; margin-left: auto; margin-right: auto; width: 85%;"/>
+
+#### "Dumbbell Nebula" (Green)
+
+The **Dumbbell Nebula** theme is based upon the "Void" theme, except those greyscale accents are green! This is reminiscent of the Dumbbell Nebula.
+
+<img src="images/nebulous-void-green.webp" alt="Dumbbell Nebula Theme Sample Image" style="display: block; margin-left: auto; margin-right: auto; width: 85%;"/>
 
 #### "Orion Nebula" (Blue)
 
 The **Orion Nebula** theme is based upon the "Void" theme, except those greyscale accents are blue! This is reminiscent of the Orion Nebula.
 
-<img src="images/nebulous-blue.webp" alt="Orion Nebula Theme Sample Image" style="display: block; margin-left: auto; margin-right: auto; width: 85%;"/>
+<img src="images/nebulous-void-blue.webp" alt="Orion Nebula Theme Sample Image" style="display: block; margin-left: auto; margin-right: auto; width: 85%;"/>
+
+#### "Veil Nebula" (Purple)
+
+The **Veil Nebula** theme is based upon the "Void" theme, except those greyscale accents are purple, reminiscent of the Veil Nebula.
+
+<img src="images/nebulous-void-purple.webp" alt="Veil Nebula Theme Sample Image" style="display: block; margin-left: auto; margin-right: auto; width: 85%;"/>
 
 ### Light Themes
 
@@ -56,10 +77,10 @@ The **Orion Nebula** theme is based upon the "Void" theme, except those greyscal
 
 The **Sol** theme is a white theme inspired by the Sun. It utilizes a unique set of colors for the code syntax and the entire window.
 
-<img src="images/nebulous-sol.webp" alt="Sol Theme Sample Image" style="display: block; margin-left: auto; margin-right: auto; width: 85%;"/>
+<img src="images/nebulous-white.webp" alt="Sol Theme Sample Image" style="display: block; margin-left: auto; margin-right: auto; width: 85%;"/>
 
 #### "Luna" (Silver)
 
 The **Luna** theme is a darker variant of the **Sol** theme, aiming to be more gray and muted, similar to the moon.
 
-<img src="images/nebulous-luna.webp" alt="Luna Theme Sample Image" style="display: block; margin-left: auto; margin-right: auto; width: 75%;"/>
+<img src="images/nebulous-luna.webp" alt="Luna Theme Sample Image" style="display: block; margin-left: auto; margin-right: auto; width: 85%;"/>

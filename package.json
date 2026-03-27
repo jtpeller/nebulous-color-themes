@@ -1,7 +1,7 @@
 {
     "name": "nebulous-color-themes",
     "displayName": "Nebulous Color Themes",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "jtpeller",
     "description": "Inspired by the cosmos, a collection of VS Code color themes to customize your coding experience.",
     "author": {
@@ -36,14 +36,29 @@
                 "path": "./themes/nebulous-void.json"
             },
             {
+                "label": "Nebulous - Engraved Hourglass Nebula (Red)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nebulous-void-red.json"
+            },
+            {
                 "label": "Nebulous - Ring Nebula (Orange)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/nebulous-orange.json"
+                "path": "./themes/nebulous-void-orange.json"
+            },
+            {
+                "label": "Nebulous - Dumbbell Nebula (Green)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nebulous-void-green.json"
             },
             {
                 "label": "Nebulous - Orion Nebula (Blue)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/nebulous-blue.json"
+                "path": "./themes/nebulous-void-blue.json"
+            },
+            {
+                "label": "Nebulous - Veil Nebula (Purple)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nebulous-void-purple.json"
             },
             {
                 "label": "Nebulous - Sol (White)",
