@@ -4,6 +4,21 @@ This doc details the changes to the Nebulous Color Themes.
 
 Mostly based on [Keep a Changelog](http://keepachangelog.com/) for structure and concepts.
 
+## [0.1.0] - 2026.03.28
+
+Beta release! Yay! 🎉
+
+### Added in [0.1.0]
+
+- Added new theme: High Contrast Dark
+- Added new theme: Void Yellow
+
+### Changed [0.1.0]
+
+- Completely overhauled every files' token colors, making the files \~2000 lines shorter
+- Completely reorganized the colors section of the JSONs, which should make it easier to maintain
+  - In hindsight, maybe I should have organized them by "this is stuff that's accented by this particular theme, and this is stuff that isn't"?
+
 ## [0.0.5] - 2026.03.26
 
 ### Added in [0.0.5]

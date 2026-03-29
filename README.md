@@ -16,6 +16,7 @@ I created and use these personally because I found that I wanted different color
       - ["Void" (Very Dark)](#void-very-dark)
       - ["Engraved Hourglass" Nebula (Red)](#engraved-hourglass-nebula-red)
       - ["Ring Nebula" (Orange)](#ring-nebula-orange)
+      - ["Calabash Nebula" (Yellow)](#calabash-nebula-yellow)
       - ["Dumbbell Nebula" (Green)](#dumbbell-nebula-green)
       - ["Orion Nebula" (Blue)](#orion-nebula-blue)
       - ["Veil Nebula" (Purple)](#veil-nebula-purple)
@@ -53,6 +54,12 @@ The **Ring Nebula** theme is based upon the "Void" theme, except those greyscale
 
 <img src="images/nebulous-void-orange.webp" alt="Ring Nebula Theme Sample Image" style="display: block; margin-left: auto; margin-right: auto; width: 85%;"/>
 
+#### "Calabash Nebula" (Yellow)
+
+The **Calabash Nebula** theme is based upon the "Void" theme, except those greyscale accents are yellow! This is reminiscent of the Calabash Nebula.
+
+<img src="images/nebulous-void-yellow.webp" alt="Calabash Nebula Theme Sample Image" style="display: block; margin-left: auto; margin-right: auto; width: 85%;"/>
+
 #### "Dumbbell Nebula" (Green)
 
 The **Dumbbell Nebula** theme is based upon the "Void" theme, except those greyscale accents are green! This is reminiscent of the Dumbbell Nebula.
@@ -77,7 +84,7 @@ The **Veil Nebula** theme is based upon the "Void" theme, except those greyscale
 
 The **Sol** theme is a white theme inspired by the Sun. It utilizes a unique set of colors for the code syntax and the entire window.
 
-<img src="images/nebulous-white.webp" alt="Sol Theme Sample Image" style="display: block; margin-left: auto; margin-right: auto; width: 85%;"/>
+<img src="images/nebulous-sol.webp" alt="Sol Theme Sample Image" style="display: block; margin-left: auto; margin-right: auto; width: 85%;"/>
 
 #### "Luna" (Silver)
 

@@ -1,7 +1,7 @@
 {
     "name": "nebulous-color-themes",
     "displayName": "Nebulous Color Themes",
-    "version": "0.0.5",
+    "version": "0.1.0",
     "publisher": "jtpeller",
     "description": "Inspired by the cosmos, a collection of VS Code color themes to customize your coding experience.",
     "author": {
@@ -46,6 +46,11 @@
                 "path": "./themes/nebulous-void-orange.json"
             },
             {
+                "label": "Nebulous - Calabash Nebula (Yellow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nebulous-void-yellow.json"
+            },
+            {
                 "label": "Nebulous - Dumbbell Nebula (Green)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/nebulous-void-green.json"
@@ -69,6 +74,11 @@
                 "label": "Nebulous - Luna (Silver)",
                 "uiTheme": "vs",
                 "path": "./themes/nebulous-silver.json"
+            },
+            {
+                "label": "Nebulous - Abyss (High Contrast Black)",
+                "uiTheme": "hc-black",
+                "path": "./themes/nebulous-abyss.json"
             }
         ]
     }
