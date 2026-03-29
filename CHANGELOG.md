@@ -4,6 +4,15 @@ This doc details the changes to the Nebulous Color Themes.
 
 Mostly based on [Keep a Changelog](http://keepachangelog.com/) for structure and concepts.
 
+## [0.1.1] - 2026.03.29
+
+### Changed in [0.1.1]
+
+- Realized my "hindsight" in 0.1.0 was right... Reorganized by accented color and non-accented. This way, it's easy to adjust and identify outliers.
+- Fixed a few color issues across all color themes (Void blue, void green, void purple, ...).
+  - Especially targeted the suggest widget in the editor.
+  - Also targeted some of the inactive highlights, too.
+
 ## [0.1.0] - 2026.03.28
 
 Beta release! Yay! 🎉
@@ -13,7 +22,7 @@ Beta release! Yay! 🎉
 - Added new theme: High Contrast Dark
 - Added new theme: Void Yellow
 
-### Changed [0.1.0]
+### Changed in [0.1.0]
 
 - Completely overhauled every files' token colors, making the files \~2000 lines shorter
 - Completely reorganized the colors section of the JSONs, which should make it easier to maintain

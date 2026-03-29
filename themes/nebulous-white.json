@@ -380,7 +380,7 @@
         "dropdown.border": "#00000000",
         
         "list.activeSelectionBackground": "#1c80e6",
-        "list.activeSelectionForeground": "#ffffff",
+        "list.activeSelectionForeground": "#000000",
         "list.inactiveSelectionBackground": "#cccdd5",
         "list.inactiveSelectionForeground": "#616161",
         "list.hoverBackground": "#e8e8e8",
