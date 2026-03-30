@@ -4,6 +4,13 @@ This doc details the changes to the Nebulous Color Themes.
 
 Mostly based on [Keep a Changelog](http://keepachangelog.com/) for structure and concepts.
 
+## [0.1.2] - 2026.03.29
+
+### Changed in [0.1.2]
+
+- PATCH: Fixed a coloring bug for Markdown image links.
+- Updated README to be more descriptive.
+
 ## [0.1.1] - 2026.03.29
 
 ### Changed in [0.1.1]
