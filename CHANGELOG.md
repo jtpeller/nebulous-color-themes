@@ -4,6 +4,16 @@ This doc details the changes to the Nebulous Color Themes.
 
 Mostly based on [Keep a Changelog](http://keepachangelog.com/) for structure and concepts.
 
+## [0.1.3] - 2026.04.02
+
+### Changed in [0.1.3]
+
+- PATCH: Fixed coloring bugs, especially those present in Python.
+- Added button border.
+- Adjusted Abyss (High Contrast) theme borders.
+- Adjusted Abyss (High Contrast) Panel coloring.
+- Adjusted Dark theme's terminal background color.
+
 ## [0.1.2] - 2026.03.29
 
 ### Changed in [0.1.2]
