@@ -4,4 +4,4 @@ node_modules
 vsc-extension-quickstart.md
 .samples/
 .vscode/
-*.png
+.vscode*

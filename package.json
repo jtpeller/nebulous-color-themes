@@ -1,7 +1,7 @@
 {
     "name": "nebulous-color-themes",
     "displayName": "Nebulous Color Themes",
-    "version": "0.1.3",
+    "version": "0.2.0",
     "publisher": "jtpeller",
     "description": "Inspired by the cosmos, a collection of VS Code color themes to customize your coding experience.",
     "author": {
@@ -10,7 +10,7 @@
     "categories": [
         "Themes"
     ],
-    "icon": "images/icon.webp",
+    "icon": "assets/icon.webp",
     "galleryBanner": {
         "color": "#0a0a0a",
         "theme": "dark"
@@ -28,58 +28,95 @@
             {
                 "label": "Nebulous - Deep Space (Dark)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/nebulous-dark.json"
+                "path": "./themes/dark/nebulous-dark.json"
             },
             {
-                "label": "Nebulous - Void (Very Dark)",
+                "label": "Nebulous Void - Binary Star (Cyan/Orange)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/nebulous-void.json"
+                "path": "./themes/dark/nebulous-binary-star.json"
             },
             {
-                "label": "Nebulous - Engraved Hourglass Nebula (Red)",
+                "label": "Nebulous Void - Boundless (Black)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/nebulous-void-red.json"
+                "path": "./themes/dark/nebulous-void.json"
             },
             {
-                "label": "Nebulous - Ring Nebula (Orange)",
+                "label": "Nebulous Void - Engraved Hourglass Nebula (Red)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/nebulous-void-orange.json"
+                "path": "./themes/dark/nebulous-void-red.json"
             },
             {
-                "label": "Nebulous - Calabash Nebula (Yellow)",
+                "label": "Nebulous Void - Ring Nebula (Orange)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/nebulous-void-yellow.json"
+                "path": "./themes/dark/nebulous-void-orange.json"
             },
             {
-                "label": "Nebulous - Dumbbell Nebula (Green)",
+                "label": "Nebulous Void - Calabash Nebula (Yellow)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/nebulous-void-green.json"
+                "path": "./themes/dark/nebulous-void-yellow.json"
             },
             {
-                "label": "Nebulous - Orion Nebula (Blue)",
+                "label": "Nebulous Void - Dumbbell Nebula (Green)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/nebulous-void-blue.json"
+                "path": "./themes/dark/nebulous-void-green.json"
             },
             {
-                "label": "Nebulous - Veil Nebula (Purple)",
+                "label": "Nebulous Void - Orion Nebula (Blue)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/nebulous-void-purple.json"
+                "path": "./themes/dark/nebulous-void-blue.json"
             },
             {
-                "label": "Nebulous - Sol (White)",
+                "label": "Nebulous Void - Veil Nebula (Purple)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark/nebulous-void-purple.json"
+            },
+            {
+                "label": "Nebulous Light - Sol (Yellow)",
                 "uiTheme": "vs",
-                "path": "./themes/nebulous-white.json"
+                "path": "./themes/light/nebulous-sol.json"
             },
             {
-                "label": "Nebulous - Luna (Silver)",
+                "label": "Nebulous Light - Luna (Silver)",
                 "uiTheme": "vs",
-                "path": "./themes/nebulous-silver.json"
+                "path": "./themes/light/nebulous-luna.json"
+            },
+            {
+                "label": "Nebulous Light - Red Giant (Red)",
+                "uiTheme": "vs",
+                "path": "./themes/light/nebulous-red-giant.json"
+            },
+            {
+                "label": "Nebulous Light - Supernova (Blue)",
+                "uiTheme": "vs",
+                "path": "./themes/light/nebulous-supernova.json"
+            },
+            {
+                "label": "Nebulous Light - Quasar (Violet)",
+                "uiTheme": "vs",
+                "path": "./themes/light/nebulous-quasar.json"
+            },
+            {
+                "label": "Nebulous Light - Nebular Mist (Pastel)",
+                "uiTheme": "vs",
+                "path": "./themes/light/nebulous-mist.json"
+            },
+            {
+                "label": "Nebulous - Pulsar (High Contrast Light)",
+                "uiTheme": "hc-light",
+                "path": "./themes/hc-light/nebulous-pulsar.json"
             },
             {
                 "label": "Nebulous - Abyss (High Contrast Black)",
                 "uiTheme": "hc-black",
-                "path": "./themes/nebulous-abyss.json"
+                "path": "./themes/hc-dark/nebulous-abyss.json"
             }
         ]
+    },
+    "scripts": {
+        "generate-screenshots": "node scripts/generate-screenshots.js"
+    },
+    "devDependencies": {
+        "@playwright/test": "^1.49.0",
+        "@vscode/test-electron": "^2.4.1"
     }
 }
