@@ -4,6 +4,20 @@ This doc details the changes to the Nebulous Color Themes.
 
 Mostly based on [Keep a Changelog](http://keepachangelog.com/) for structure and concepts.
 
+## [0.2.1] - 2026.06.02
+
+### Changed in [0.2.1]
+
+- Subtle adjustments to improve contrast, readability, or look/feel in the following themes:
+  - Binary Star (Cyan / Orange)
+  - Void (Boundless Black)
+  - Abyss (High Contrast Black)
+  - Dark
+  - Luna
+  - Nebular Mist
+  - Red Giant
+  - Supernova
+
 ## [0.2.0] - 2026.05.31
 
 ### Added in [0.2.0]

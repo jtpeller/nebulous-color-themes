@@ -293,7 +293,7 @@
         "editor.findMatchBackground": "#ffffff66",
         "editor.findMatchBorder": "#ffffff",
         "editor.findMatchHighlightBackground": "#ffffff33",
-        "activityBarBadge.background": "#ffffff",
+        "activityBarBadge.background": "#000000",
         "menu.selectionBackground": "#ffffff44",
         "list.activeSelectionBackground": "#ffffff44",
         "list.inactiveSelectionBackground": "#ffffff22",
@@ -322,7 +322,7 @@
 
         "foreground": "#cccccc",
         "widget.shadow": "#0000005c",
-        "badge.background": "#4d4d4d",
+        "badge.background": "#000000",
         "badge.foreground": "#ffffff",
         "icon.foreground": "#cccccc",
         

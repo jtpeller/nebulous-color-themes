@@ -1,5 +1,5 @@
 {
-    "name": "Nebulous Supernova (Light Blue)",
+    "name": "Nebulous Light: Supernova (Light Blue)",
     "type": "light",
     "semanticHighlighting": true,
     "semanticTokenColors": {
@@ -382,7 +382,7 @@
         "tab.activeBackground": "#ffffff",
         "tab.activeForeground": "#333333",
         "tab.activeBorder": "#00000000",
-        "tab.inactiveBackground": "#ececec",
+        "tab.inactiveBackground": "#F5FDFF",
         "tab.inactiveForeground": "#333333b3",
         "tab.border": "#e7e7e7",
         
