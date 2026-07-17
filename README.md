@@ -1,5 +1,10 @@
 # Nebulous Color Themes
 
+![Open VSX Version](https://img.shields.io/open-vsx/v/jtpeller/nebulous-color-themes?style=for-the-badge)
+![Open VSX Downloads](https://img.shields.io/open-vsx/dt/jtpeller/nebulous-color-themes?style=for-the-badge)
+![Open VSX Rating](https://img.shields.io/open-vsx/rating/jtpeller/nebulous-color-themes?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/jtpeller/nebulous-color-themes?style=for-the-badge)
+
 Inspired by the cosmos, this pack of color themes contains several different themes (light, dark, and high-contrast) to customize your VSCode window, code syntax, and more.
 
 I created and use these personally because I found that I wanted different colors for various syntax to make my coding experience easier. I also wanted an improved color scheme for my editor.
@@ -7,6 +12,11 @@ I created and use these personally because I found that I wanted different color
 Semantic highlights are shared across theme types. That is, all dark themes have the same semantic highlights. This ensures consistency across all themes of similar types. There are elements of the window that are accented based on the particular theme.
 
 > Can be found at the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=jtpeller.nebulous-color-themes).
+
+The contents of the extension are kept intentionally small. The VSIX file containing only what is necessary (notice the difference when images are included!)
+
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/jtpeller/nebulous-color-themes?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/jtpeller/nebulous-color-themes?style=for-the-badge)
 
 ## Contents
 
